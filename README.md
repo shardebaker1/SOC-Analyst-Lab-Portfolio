@@ -14,4 +14,4 @@ This repository documents my hands-on training through TryHackMe, focused on pre
 
 ## 🔗 TryHackMe Profile
 
-[Visit My TryHackMe Profile](https://tryhackme.com/p/Shardebaker1)
+[Visit My TryHackMe Profile](https://tryhackme.com/p/shardebaker1)
